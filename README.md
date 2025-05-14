@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Kea-Aurora</h1>
+<h1>Kea-Classifier</h1>
 
  <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-orange'></a> &nbsp;&nbsp;&nbsp;
  <a><img src='https://img.shields.io/badge/python-3.9-blue'></a> &nbsp;&nbsp;&nbsp;
